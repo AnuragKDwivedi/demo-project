@@ -1,0 +1,5 @@
+com/myfirst/customapp/Repository/EmployeeRepository.class
+com/myfirst/customapp/Controllers/MyController.class
+com/myfirst/customapp/Entity/Employee.class
+com/myfirst/customapp/Services/EmployeeService.class
+com/myfirst/customapp/CustomAppApplication.class
